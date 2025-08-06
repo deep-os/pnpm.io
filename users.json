@@ -361,10 +361,17 @@
     "pinned": false,
     "width": 250
   },
-    {
+  {
     "caption": "FlashProxy",
     "image": "/img/users/flashproxy.svg",
     "infoLink": "https://flashproxy.io/",
+    "pinned": false,
+    "width": 250
+  },
+  {
+    "caption": "Osmos",
+    "image": "/img/users/osmos.svg",
+    "infoLink": "https://osmos.ai/",
     "pinned": false,
     "width": 250
   }
